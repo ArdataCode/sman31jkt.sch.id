@@ -1,0 +1,4 @@
+[04-Feb-2024 23:19:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/sman31jkt.sch.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman31jkt.sch.id/wp-includes/blocks/index.php on line 8

@@ -1,0 +1,1520 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 08:50:11
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 8.0.28                                |7.4.33
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.33 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u1567848/public_html/sman31jkt.sch.id"
+REQUEST URL_________: "https://sman31jkt.sch.id"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u1567848/public_html/sman31jkt.sch.id"
+URL_NEW_____________: "https://sman31jkt.sch.id"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u1567848/public_html/sman31jkt.sch.id/20230605_sman31jakarta_[HASH]_20230605061523_archive.zip"
+ARCHIVE SIZE________: 93.4MB
+CREATED_____________: 2023-06-05 06:15:23
+WP VERSION__________: 6.2.2
+DUP VERSION_________: 4.5.7
+LICENSE_____________: Business or Gold
+DB VERSION__________: 10.6.13
+DB FILE SIZE________: 14.26MB
+DB TABLES___________: 51
+DB ROWS_____________: 35139
+URL HOME____________: https://sman31jkt.sch.id
+URL CORE____________: https://sman31jkt.sch.id
+URL CONTENT_________: https://sman31jkt.sch.id/wp-content
+URL UPLOAD__________: https://sman31jkt.sch.id/wp-content/uploads
+URL PLUGINS_________: https://sman31jkt.sch.id/wp-content/plugins
+URL MU PLUGINS______: https://sman31jkt.sch.id/wp-content/mu-plugins
+URL THEMES__________: https://sman31jkt.sch.id/wp-content/themes
+PATH HOME___________: /home/ardatagr/sman31jkt.sch.id
+PATH ABS____________: /home/ardatagr/sman31jkt.sch.id
+PATH WPCONFIG_______: /home/ardatagr/sman31jkt.sch.id
+PATH WPCONTENT______: /home/ardatagr/sman31jkt.sch.id/wp-content
+PATH UPLOADS________: /home/ardatagr/sman31jkt.sch.id/wp-content/uploads
+PATH PLUGINS________: /home/ardatagr/sman31jkt.sch.id/wp-content/plugins
+PATH MUPLUGINS______: /home/ardatagr/sman31jkt.sch.id/wp-content/mu-plugins
+PATH THEMES_________: /home/ardatagr/sman31jkt.sch.id/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "sman31jkt.sch.id/"
+
+PLUGINS
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:false]  Duplicator
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:easy-table-of-contents/easy-table-of-contents.php ][ON:true ]  Easy Table of Contents
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:envato-elements/envato-elements.php               ][ON:true ]  Envato Elements
+PLUGIN [SLUG:jeg-elementor-kit/jeg-elementor-kit.php           ][ON:true ]  Jeg Elementor Kit
+PLUGIN [SLUG:malcare-security/malcare.php                      ][ON:true ]  MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall
+PLUGIN [SLUG:metform/metform.php                               ][ON:true ]  MetForm
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:w3-total-cache/w3-total-cache.php                 ][ON:false]  W3 Total Cache
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:false]  Wordfence Security
+PLUGIN [SLUG:wordpress-importer/wordpress-importer.php         ][ON:true ]  WordPress Importer
+PLUGIN [SLUG:wp-media-folder/wp-media-folder.php               ][ON:true ]  WP Media folder
+PLUGIN [SLUG:wp-media-folder-addon/wp-media-folder-addon.php   ][ON:true ]  WP Media folder Addon
+PLUGIN [SLUG:wp-media-folder-gallery-addon/wp-media-folder-gallery-addon.php][ON:true ]  WP Media folder Gallery Addon
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+
+********************************************************************************
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.03766]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+[PHP ERR][E_DEPRECATED] MSG:Directive 'allow_url_include' is deprecated [CODE:8192|FILE:Unknown|LINE:0]
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.03300]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+LOG-TIME[DELTA:   0.00794]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00040]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.01465]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00131]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00213]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00089]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00053]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/database/class.db.php:646] MSG: SELECT command denied to user 'u1567848_allin'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u1567848_allin' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/validation/class.validation.database.service.php[979]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/validation/class.validation.manager.php[237]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/classes/validation/class.validation.manager.php[210]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u1567848/public_html/sman31jkt.sch.id/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00022]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.02565]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00104]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00137]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: hard warning
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00091]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00050]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00040]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 08:51:57
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "SMAN 31 Jakarta"
+HOME URL NEW________: "https://sman31jkt.sch.id"
+SITE URL NEW________: "https://sman31jkt.sch.id"
+CONTENT URL NEW_____: "https://sman31jkt.sch.id/wp-content"
+UPLOAD URL NEW______: "https://sman31jkt.sch.id/wp-content/uploads"
+PLUGINS URL NEW_____: "https://sman31jkt.sch.id/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://sman31jkt.sch.id/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u1567848/public_html/sman31jkt.sch.id"
+SITE PATH NEW_______: "/home/u1567848/public_html/sman31jkt.sch.id"
+CONTENT PATH NEW____: "/home/u1567848/public_html/sman31jkt.sch.id/wp-content"
+UPLOAD PATH NEW_____: "/home/u1567848/public_html/sman31jkt.sch.id/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u1567848/public_html/sman31jkt.sch.id/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u1567848/public_html/sman31jkt.sch.id/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u1567848/public_html/sman31jkt.sch.id/dup-installer"
+	FILE: "/home/u1567848/public_html/sman31jkt.sch.id/20230605_sman31jakarta_[HASH]_20230605061523_installer-backup.php"
+	FILE: "/home/u1567848/public_html/sman31jkt.sch.id/20230605_sman31jakarta_[HASH]_20230605061523_archive.zip"
+	FILE: "/home/u1567848/public_html/sman31jkt.sch.id/installer.php"
+	FILE: "/home/u1567848/public_html/sman31jkt.sch.id/dup-installer-bootlog__2c35761-05061523.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230605_sman31jakarta_[HASH]_20230605061523_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0188 sec. - Files processed: 1,308 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 1308
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0164 sec. - Files processed: 2,810 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 2810
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1628 sec. - Files processed: 3,860 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3860
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0631 sec. - Files processed: 3,991 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3991
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0781 sec. - Files processed: 4,938 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4938
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2860 sec. - Files processed: 5,222 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5222
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1620 sec. - Files processed: 5,365 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5365
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2049 sec. - Files processed: 5,484 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5484
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0150 sec. - Files processed: 5,912 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5912
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0190 sec. - Files processed: 6,538 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6538
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0246 sec. - Files processed: 6,850 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6850
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.9383 sec. - Files processed: 7,958 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7958
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2676 sec. - Files processed: 7,979 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7979
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2816 sec. - Files processed: 8,454 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8454
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3007 sec. - Files processed: 8,783 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8783
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0229 sec. - Files processed: 9,718 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9718
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0138 sec. - Files processed: 11,097 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11097
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0545 sec. - Files processed: 11,553 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11553
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0320 sec. - Files processed: 12,155 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12155
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0250 sec. - Files processed: 12,876 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12876
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0615 sec. - Files processed: 13,412 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13412
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0126 sec. - Files processed: 13,682 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13682
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0413 sec. - Files processed: 14,587 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14587
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0250 sec. - Files processed: 15,140 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15140
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0350 sec. - Files processed: 15,773 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15773
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0238 sec. - Files processed: 16,369 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16369
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0198 sec. - Files processed: 17,350 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17350
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0993 sec. - Files processed: 17,959 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17959
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0749 sec. - Files processed: 18,285 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18285
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0198 sec. - Files processed: 18,465 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18465
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 9.8721 sec. - Files processed: 18,800 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18800
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0217 sec. - Files processed: 19,210 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19210
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3540 sec. - Files processed: 19,427 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19427
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 9.4911 sec. - Files processed: 19,496 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19496
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0612 sec. - Files processed: 19,915 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19915
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0430 sec. - Files processed: 20,607 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20607
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0436 sec. - Files processed: 20,802 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20802
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0679 sec. - Files processed: 20,827 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20827
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0297 sec. - Files processed: 21,038 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21038
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0239 sec. - Files processed: 21,383 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21383
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0451 sec. - Files processed: 21,666 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21666
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 22638
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 08:55:43 - RUNTIME: 226.8239 sec. - Files processed: 21,733 of 21,733
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wppc_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 08:55:43
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wppc_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wppc_bv_activities_store"________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wppc_bv_activities_store]
+TABLE "wppc_bv_fw_requests"_____________________________[ROWS:      35] [EXTRACT|REPLACE] [INST NAME: wppc_bv_fw_requests]
+TABLE "wppc_bv_ip_store"________________________________[ROWS:    8375] [EXTRACT|REPLACE] [INST NAME: wppc_bv_ip_store]
+TABLE "wppc_bv_lp_requests"_____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wppc_bv_lp_requests]
+TABLE "wppc_commentmeta"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_commentmeta]
+TABLE "wppc_comments"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_comments]
+TABLE "wppc_duplicator_packages"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_duplicator_packages]
+TABLE "wppc_duplicator_pro_entities"____________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wppc_duplicator_pro_entities]
+TABLE "wppc_duplicator_pro_packages"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wppc_duplicator_pro_packages]
+TABLE "wppc_e_events"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_e_events]
+TABLE "wppc_e_submissions"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_e_submissions]
+TABLE "wppc_e_submissions_actions_log"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_e_submissions_actions_log]
+TABLE "wppc_e_submissions_values"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_e_submissions_values]
+TABLE "wppc_ju_queue"___________________________________[ROWS:     294] [EXTRACT|REPLACE] [INST NAME: wppc_ju_queue]
+TABLE "wppc_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_links]
+TABLE "wppc_options"____________________________________[ROWS:     398] [EXTRACT|REPLACE] [INST NAME: wppc_options]
+TABLE "wppc_postmeta"___________________________________[ROWS:    1997] [EXTRACT|REPLACE] [INST NAME: wppc_postmeta]
+TABLE "wppc_posts"______________________________________[ROWS:     295] [EXTRACT|REPLACE] [INST NAME: wppc_posts]
+TABLE "wppc_termmeta"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_termmeta]
+TABLE "wppc_terms"______________________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wppc_terms]
+TABLE "wppc_term_relationships"_________________________[ROWS:      51] [EXTRACT|REPLACE] [INST NAME: wppc_term_relationships]
+TABLE "wppc_term_taxonomy"______________________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: wppc_term_taxonomy]
+TABLE "wppc_usermeta"___________________________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: wppc_usermeta]
+TABLE "wppc_users"______________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wppc_users]
+TABLE "wppc_wfblockediplog"_____________________________[ROWS:     118] [EXTRACT|REPLACE] [INST NAME: wppc_wfblockediplog]
+TABLE "wppc_wfblocks7"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfblocks7]
+TABLE "wppc_wfconfig"___________________________________[ROWS:     266] [EXTRACT|REPLACE] [INST NAME: wppc_wfconfig]
+TABLE "wppc_wfcrawlers"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfcrawlers]
+TABLE "wppc_wffilechanges"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wffilechanges]
+TABLE "wppc_wffilemods"_________________________________[ROWS:   10638] [EXTRACT|REPLACE] [INST NAME: wppc_wffilemods]
+TABLE "wppc_wfhits"_____________________________________[ROWS:     188] [EXTRACT|REPLACE] [INST NAME: wppc_wfhits]
+TABLE "wppc_wfhoover"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfhoover]
+TABLE "wppc_wfissues"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfissues]
+TABLE "wppc_wfknownfilelist"____________________________[ROWS:   10638] [EXTRACT|REPLACE] [INST NAME: wppc_wfknownfilelist]
+TABLE "wppc_wflivetraffichuman"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wflivetraffichuman]
+TABLE "wppc_wflocs"_____________________________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: wppc_wflocs]
+TABLE "wppc_wflogins"___________________________________[ROWS:      37] [EXTRACT|REPLACE] [INST NAME: wppc_wflogins]
+TABLE "wppc_wfls_2fa_secrets"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfls_2fa_secrets]
+TABLE "wppc_wfls_settings"______________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: wppc_wfls_settings]
+TABLE "wppc_wfnotifications"____________________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wppc_wfnotifications]
+TABLE "wppc_wfpendingissues"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfpendingissues]
+TABLE "wppc_wfreversecache"_____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wppc_wfreversecache]
+TABLE "wppc_wfsnipcache"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wfsnipcache]
+TABLE "wppc_wfstatus"___________________________________[ROWS:    1201] [EXTRACT|REPLACE] [INST NAME: wppc_wfstatus]
+TABLE "wppc_wftrafficrates"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wppc_wftrafficrates]
+TABLE "wppc_wpmf_s3_queue"______________________________[ROWS:      90] [EXTRACT|REPLACE] [INST NAME: wppc_wpmf_s3_queue]
+TABLE "wppc_yoast_indexable"____________________________[ROWS:      49] [EXTRACT|REPLACE] [INST NAME: wppc_yoast_indexable]
+TABLE "wppc_yoast_indexable_hierarchy"__________________[ROWS:      46] [EXTRACT|REPLACE] [INST NAME: wppc_yoast_indexable_hierarchy]
+TABLE "wppc_yoast_migrations"___________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wppc_yoast_migrations]
+TABLE "wppc_yoast_primary_term"_________________________[ROWS:      23] [EXTRACT|REPLACE] [INST NAME: wppc_yoast_primary_term]
+TABLE "wppc_yoast_seo_links"____________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wppc_yoast_seo_links]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.5.20 -- Build Server: 10.6.13
+FILE SIZE:	dup-database__[HASH].sql (14.01MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+GLOBAL RULES ADDED: INVALID CHARSETS
+GLOBAL RULES ADDED: INVALID COLLATIONS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u1567848_allin`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8$3utf8_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8_general_ci$3utf8$5
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)((?:utf8mb3))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8$3
+
+	SEARCH  => /(^.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?\s.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8$3utf8_general_ci$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?\s.*(?:CHARSET|CHARACTER SET)\s*[\s=]\s*[`'"]?)([^`'"\s;,]+)([`'"]?.*$)/m
+	REPLACE => $1utf8_general_ci$3utf8$5
+
+	SEARCH  => /(^.*COLLATE\s*[\s=]\s*[`'"]?)((?:utf8mb3_general_ci))([`'"]?[\s;,].*$)/m
+	REPLACE => $1utf8_general_ci$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	178
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wppc_bv_activities_store"________________________[ROWS:     1]
+TABLE "wppc_bv_fw_requests"_____________________________[ROWS:    35]
+TABLE "wppc_bv_ip_store"________________________________[ROWS:  8375]
+TABLE "wppc_bv_lp_requests"_____________________________[ROWS:     1]
+TABLE "wppc_commentmeta"________________________________[ROWS:     0]
+TABLE "wppc_comments"___________________________________[ROWS:     0]
+TABLE "wppc_duplicator_packages"________________________[ROWS:     0]
+TABLE "wppc_duplicator_pro_entities"____________________[ROWS:     5]
+TABLE "wppc_duplicator_pro_packages"____________________[ROWS:     1]
+TABLE "wppc_e_events"___________________________________[ROWS:     0]
+TABLE "wppc_e_submissions"______________________________[ROWS:     0]
+TABLE "wppc_e_submissions_actions_log"__________________[ROWS:     0]
+TABLE "wppc_e_submissions_values"_______________________[ROWS:     0]
+TABLE "wppc_ju_queue"___________________________________[ROWS:   294]
+TABLE "wppc_links"______________________________________[ROWS:     0]
+TABLE "wppc_options"____________________________________[ROWS:   398]
+TABLE "wppc_postmeta"___________________________________[ROWS:  1997]
+TABLE "wppc_posts"______________________________________[ROWS:   295]
+TABLE "wppc_term_relationships"_________________________[ROWS:    51]
+TABLE "wppc_term_taxonomy"______________________________[ROWS:    12]
+TABLE "wppc_termmeta"___________________________________[ROWS:     0]
+TABLE "wppc_terms"______________________________________[ROWS:    12]
+TABLE "wppc_usermeta"___________________________________[ROWS:    40]
+TABLE "wppc_users"______________________________________[ROWS:     1]
+TABLE "wppc_wfblockediplog"_____________________________[ROWS:   118]
+TABLE "wppc_wfblocks7"__________________________________[ROWS:     0]
+TABLE "wppc_wfconfig"___________________________________[ROWS:   266]
+TABLE "wppc_wfcrawlers"_________________________________[ROWS:     0]
+TABLE "wppc_wffilechanges"______________________________[ROWS:     0]
+TABLE "wppc_wffilemods"_________________________________[ROWS: 10638]
+TABLE "wppc_wfhits"_____________________________________[ROWS:   188]
+TABLE "wppc_wfhoover"___________________________________[ROWS:     0]
+TABLE "wppc_wfissues"___________________________________[ROWS:     0]
+TABLE "wppc_wfknownfilelist"____________________________[ROWS: 10638]
+TABLE "wppc_wflivetraffichuman"_________________________[ROWS:     0]
+TABLE "wppc_wflocs"_____________________________________[ROWS:     7]
+TABLE "wppc_wflogins"___________________________________[ROWS:    37]
+TABLE "wppc_wfls_2fa_secrets"___________________________[ROWS:     0]
+TABLE "wppc_wfls_settings"______________________________[ROWS:    21]
+TABLE "wppc_wfnotifications"____________________________[ROWS:    10]
+TABLE "wppc_wfpendingissues"____________________________[ROWS:     0]
+TABLE "wppc_wfreversecache"_____________________________[ROWS:     1]
+TABLE "wppc_wfsnipcache"________________________________[ROWS:     0]
+TABLE "wppc_wfstatus"___________________________________[ROWS:  1201]
+TABLE "wppc_wftrafficrates"_____________________________[ROWS:     0]
+TABLE "wppc_wpmf_s3_queue"______________________________[ROWS:    90]
+TABLE "wppc_yoast_indexable"____________________________[ROWS:    49]
+TABLE "wppc_yoast_indexable_hierarchy"__________________[ROWS:    46]
+TABLE "wppc_yoast_migrations"___________________________[ROWS:    24]
+TABLE "wppc_yoast_primary_term"_________________________[ROWS:    23]
+TABLE "wppc_yoast_seo_links"____________________________[ROWS:   109]
+
+INSERT DATA RUNTIME: 1.8522 sec.
+STEP-2 COMPLETE @ 08:55:45 - RUNTIME: 1.8522 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/ardatagr/sman31jkt.sch.id REPLACE: /home/u1567848/public_html/sman31jkt.sch.id [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 08:55:45
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wppc_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:    99]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wppc_bv_activities_store"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_bv_activities_store][0]
+
+EVALUATE TABLE: "wppc_bv_fw_requests"_____________________________[ROWS:    35][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_bv_fw_requests][0]
+
+EVALUATE TABLE: "wppc_bv_ip_store"________________________________[ROWS:  8375][PG:   9][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_bv_lp_requests"_____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_bv_lp_requests][0]
+
+EVALUATE TABLE: "wppc_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_comments"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_duplicator_pro_entities"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wppc_duplicator_pro_packages"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_e_events"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_e_submissions"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_e_submissions_actions_log"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_e_submissions_values"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_ju_queue"___________________________________[ROWS:   294][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_ju_queue][0]
+
+EVALUATE TABLE: "wppc_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_options"____________________________________[ROWS:   299][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_options][0]
+
+EVALUATE TABLE: "wppc_postmeta"___________________________________[ROWS:  1997][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wppc_postmeta][1]
+
+EVALUATE TABLE: "wppc_posts"______________________________________[ROWS:   295][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_posts][0]
+
+EVALUATE TABLE: "wppc_termmeta"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_terms"______________________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_terms][0]
+
+EVALUATE TABLE: "wppc_term_relationships"_________________________[ROWS:    51][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_term_taxonomy"______________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_term_taxonomy][0]
+
+EVALUATE TABLE: "wppc_usermeta"___________________________________[ROWS:    40][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_usermeta][0]
+
+EVALUATE TABLE: "wppc_users"______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_users][0]
+
+EVALUATE TABLE: "wppc_wfblockediplog"_____________________________[ROWS:   118][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfblockediplog][0]
+
+EVALUATE TABLE: "wppc_wfblocks7"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfconfig"___________________________________[ROWS:   266][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfconfig][0]
+
+EVALUATE TABLE: "wppc_wfcrawlers"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wffilechanges"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wffilemods"_________________________________[ROWS: 10638][PG:  11][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][0]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][1]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][2]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][3]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][4]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][5]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][6]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][7]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][8]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][9]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wffilemods][10]
+
+EVALUATE TABLE: "wppc_wfhits"_____________________________________[ROWS:   188][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfhits][0]
+
+EVALUATE TABLE: "wppc_wfhoover"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfissues"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfknownfilelist"____________________________[ROWS: 10638][PG:  11][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][0]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][1]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][2]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][3]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][4]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][5]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][6]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][7]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][8]
+	
+STEP-3 CHUNK STOP @ 08:55:51 - RUNTIME: 5.1348 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][9]
+CHUNK ACTION: CURRENT [search_replace][wppc_wfknownfilelist][10]
+
+EVALUATE TABLE: "wppc_wflivetraffichuman"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wflocs"_____________________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wflocs][0]
+
+EVALUATE TABLE: "wppc_wflogins"___________________________________[ROWS:    37][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wflogins][0]
+
+EVALUATE TABLE: "wppc_wfls_2fa_secrets"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfls_settings"______________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfls_settings][0]
+
+EVALUATE TABLE: "wppc_wfnotifications"____________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfnotifications][0]
+
+EVALUATE TABLE: "wppc_wfpendingissues"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfreversecache"_____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfreversecache][0]
+
+EVALUATE TABLE: "wppc_wfsnipcache"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wfstatus"___________________________________[ROWS:  1201][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfstatus][0]
+	CHUNK ACTION: CURRENT [search_replace][wppc_wfstatus][1]
+
+EVALUATE TABLE: "wppc_wftrafficrates"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_wpmf_s3_queue"______________________________[ROWS:    90][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_wpmf_s3_queue][0]
+
+EVALUATE TABLE: "wppc_yoast_indexable"____________________________[ROWS:    49][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_yoast_indexable][0]
+
+EVALUATE TABLE: "wppc_yoast_indexable_hierarchy"__________________[ROWS:    46][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppc_yoast_migrations"___________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_yoast_migrations][0]
+
+EVALUATE TABLE: "wppc_yoast_primary_term"_________________________[ROWS:    23][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_yoast_primary_term][0]
+
+EVALUATE TABLE: "wppc_yoast_seo_links"____________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/ardatagr/sman31jkt.sch.id" =================> "/home/u1567848/public_html/sman31jkt.sch.id"
+	CHUNK ACTION: CURRENT [search_replace][wppc_yoast_seo_links][0]
+--------------------------------------
+SCANNED:	Tables:51 	|	 Rows:26412 	|	 Cells:172896 
+UPDATED:	Tables:6 	|	 Rows:21407 	|	 Cells:21407 
+ERRORS:		0 
+RUNTIME:	5.852100 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u1567848/public_html/sman31jkt.sch.id/wp-config.php
+New .htaccess file created:/home/u1567848/public_html/sman31jkt.sch.id/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "https://sman31jkt.sch.id"
+	UPDATE WP_PLUGIN_DIR "/home/u1567848/public_html/sman31jkt.sch.id/wp-content/plugins"
+	UPDATE WPMU_PLUGIN_DIR "/home/u1567848/public_html/sman31jkt.sch.id/wp-content/mu-plugins"
+	UPDATE DB_NAME ""u1567848_31jkt""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 0 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+AN INDEX.HTML WAS FOUND IN THE ROOT OF THE INSTALLATION.
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u1567848/public_html/sman31jkt.sch.id"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 08:55:52 - RUNTIME: 0.9425 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/src/Core/Bootstrap.php:73] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] An index.html was found.
+	SECTIONS: general
+	LONG MSG: An index.html was found in the existing site. You may need to manually remove it for the new site to work.
+
+====================================
+LOG-TIME[/home/u1567848/public_html/sman31jkt.sch.id/dup-installer/ctrls/ctrl.base.php:232][DELTA:   0.04886]  MESSAGE:END RENDER PAGE

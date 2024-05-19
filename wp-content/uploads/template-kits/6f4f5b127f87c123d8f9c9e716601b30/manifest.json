@@ -1,0 +1,1409 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Urayana \u2013 University & College Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.baliniz.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Academics",
+            "screenshot": "screenshots\/academics.jpg",
+            "source": "templates\/academics.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/academics\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faculty",
+            "screenshot": "screenshots\/faculty.jpg",
+            "source": "templates\/faculty.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/faculty\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Lecturer",
+            "screenshot": "screenshots\/lecturer.jpg",
+            "source": "templates\/lecturer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/lecturer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact 2",
+            "screenshot": "screenshots\/metform-contact-2.jpg",
+            "source": "templates\/metform-contact-2.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/metform-contact-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.baliniz.com\/urayana\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "university-graduates-at-graduation-ceremony-e1652584456950.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-graduates-at-graduation-ceremony-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 232475,
+            "dimensions": [
+                1920,
+                1345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SBWDA8G"
+        },
+        {
+            "filename": "it-will-be-great-day-on-the-university-e1652584481998.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/it-will-be-great-day-on-the-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 304645,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CCFR2E5"
+        },
+        {
+            "filename": "happy-young-university-students-friends-studying-with-books-at-university-e1652584466557.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/happy-young-university-students-friends-studying-with-books-at-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 245563,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7PR3WV2"
+        },
+        {
+            "filename": "hanging-out-in-university-library-e1652584493212.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/hanging-out-in-university-library-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 236608,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5DCTEWY"
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/signature.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7264,
+            "dimensions": [
+                470,
+                132
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5QEGBV"
+        },
+        {
+            "filename": "group-of-university-student-in-campus-e1652584409108.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/group-of-university-student-in-campus-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 317346,
+            "dimensions": [
+                1900,
+                1267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K45WATZ"
+        },
+        {
+            "filename": "group-study-in-university-library-e1652584503601.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/group-study-in-university-library-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 193333,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNPFBDK"
+        },
+        {
+            "filename": "modern-students-in-university-hall-e1652584417437.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/modern-students-in-university-hall-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 252868,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REGQPZU"
+        },
+        {
+            "filename": "pattern.jpeg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/pattern-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 192072,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKPSLY"
+        },
+        {
+            "filename": "a-group-of-young-multi-ethnic-group-of-student-in-university-smiling-and-looking-at-the-tablet-e1652584645368.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/a-group-of-young-multi-ethnic-group-of-student-in-university-smiling-and-looking-at-the-tablet-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 282573,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FDKM6W3"
+        },
+        {
+            "filename": "group-of-students-painting-at-art-lessons-e1652584656605.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/group-of-students-painting-at-art-lessons-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 221304,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R926ALR"
+        },
+        {
+            "filename": "intensive-training-at-sports-center-e1652584665612.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/intensive-training-at-sports-center-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 267239,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-29KKEPR"
+        },
+        {
+            "filename": "background.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 103691,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/line-style-memphis-abstract-background_18309214.htm"
+        },
+        {
+            "filename": "university-student-working-in-library-1-e1652584592762.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-student-working-in-library-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 250647,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3HD47S7"
+        },
+        {
+            "filename": "interior-of-busy-university-campus-building-with-students-e1652584559604.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/interior-of-busy-university-campus-building-with-students-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 266319,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKQPXZT"
+        },
+        {
+            "filename": "group-of-students-standing-in-front-of-university-e1652584856953.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/group-of-students-standing-in-front-of-university-800x514.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 310322,
+            "dimensions": [
+                1880,
+                1207
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SXZPNR2"
+        },
+        {
+            "filename": "university-students-throwing-their-caps-in-the-air-on-graduation-day-e1652584542643.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-students-throwing-their-caps-in-the-air-on-graduation-day-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 255438,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBLX2VF"
+        },
+        {
+            "filename": "smiling-grey-hair-professor-standing-in-lecture-ro-DNUL3FY.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/smiling-grey-hair-professor-standing-in-lecture-ro-DNUL3FY-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 262100,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNUL3FY"
+        },
+        {
+            "filename": "beautiful-female-university-professor-smiling-and-NW9KG32.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/beautiful-female-university-professor-smiling-and-NW9KG32-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 233647,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NW9KG32"
+        },
+        {
+            "filename": "university-students-working-in-library-e1652584600456.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-students-working-in-library-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 270172,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UYPCU3R"
+        },
+        {
+            "filename": "university-students-studying-together-e1652584355975.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/university-students-studying-together-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 324550,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGUHBPW"
+        },
+        {
+            "filename": "university-students-reading-textbook-together-e1652584637106.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-students-reading-textbook-together-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 227365,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2MYHA9"
+        },
+        {
+            "filename": "resting-during-break-at-university-e1652584622793.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/resting-during-break-at-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 264533,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7SE5KWE"
+        },
+        {
+            "filename": "platform-for-teachers-at-university-e1652584580738.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/platform-for-teachers-at-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 332748,
+            "dimensions": [
+                1900,
+                1267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKS969N"
+        },
+        {
+            "filename": "student-at-college-e1652584377837.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/student-at-college-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 242013,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BMNHG5J"
+        },
+        {
+            "filename": "group-of-students-discussing-in-university-e1652584610491.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/group-of-students-discussing-in-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 255899,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TUR6DQ7"
+        },
+        {
+            "filename": "laughing-graduated-multiethnic-students-with-diplomas-e1652584534602.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/laughing-graduated-multiethnic-students-with-diplomas-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 204752,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L5LQ5R3"
+        },
+        {
+            "filename": "test-in-college-e1652584527201.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/test-in-college-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 151391,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YRJ5MUF"
+        },
+        {
+            "filename": "laughing-university-student-e1652584387753.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/laughing-university-student-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 195863,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H879UKR"
+        },
+        {
+            "filename": "testimonial-MKLVKTE.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/testimonial-MKLVKTE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 59237,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MKLVKTE"
+        },
+        {
+            "filename": "UUFGSJH.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/UUFGSJH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 57515,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UUFGSJH"
+        },
+        {
+            "filename": "testimonial-CASCKD8.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/testimonial-CASCKD8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academics.json",
+                    "name": "Academics"
+                }
+            ],
+            "filesize": 52477,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CASCKD8"
+        },
+        {
+            "filename": "university-in-poland-8HE6LRH.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-in-poland-8HE6LRH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 314079,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8HE6LRH"
+        },
+        {
+            "filename": "view-at-the-oxford-university-oxford-un-e1652110792893.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/04\/view-at-the-oxford-university-oxford-un-e1652110792893-800x507.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 262611,
+            "dimensions": [
+                1485,
+                942
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9HL5SJT"
+        },
+        {
+            "filename": "hundreds-of-old-books-in-the-library-of-trinity-college-in-dublin-ireland-with-a-ladder-to-reach--e1652584699375.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/hundreds-of-old-books-in-the-library-of-trinity-college-in-dublin-ireland-with-a-ladder-to-reach--800x546.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 277131,
+            "dimensions": [
+                1400,
+                956
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3N2D39E"
+        },
+        {
+            "filename": "harvard-university-campus-e1652584709580.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/harvard-university-campus-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 301009,
+            "dimensions": [
+                1400,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GVXYQDD"
+        },
+        {
+            "filename": "university-lecturer-in-empty-class-6GL4YWC.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-lecturer-in-empty-class-6GL4YWC-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 180122,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6GL4YWC"
+        },
+        {
+            "filename": "smiling-male-teacher-in-formal-wear-looking-at-cam-2NLG2E9.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/smiling-male-teacher-in-formal-wear-looking-at-cam-2NLG2E9-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 210273,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2NLG2E9"
+        },
+        {
+            "filename": "young-successful-teacher-of-economics-standing-by-BJR7CW5.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/young-successful-teacher-of-economics-standing-by-BJR7CW5-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 142827,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BJR7CW5"
+        },
+        {
+            "filename": "the-male-teacher-used-white-chalk-to-write-on-the-LGG7L7W.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/the-male-teacher-used-white-chalk-to-write-on-the-LGG7L7W-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 173084,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LGG7L7W"
+        },
+        {
+            "filename": "speaker-at-business-meeting-in-the-conference-hall--e1652584735389.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/speaker-at-business-meeting-in-the-conference-hall--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 236036,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRL2CYF"
+        },
+        {
+            "filename": "team-members-celebrating-a-victory-and-a-trophy-in-an-outdoor-sporting-event-in-the-winter--e1652584743104.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/team-members-celebrating-a-victory-and-a-trophy-in-an-outdoor-sporting-event-in-the-winter--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 292241,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D72FL4G"
+        },
+        {
+            "filename": "teacher-talking-about-the-artificial-intelligence-e1652584751189.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/teacher-talking-about-the-artificial-intelligence-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 253789,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9B9LTDB"
+        },
+        {
+            "filename": "art-studies-e1652584759872.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/art-studies-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 319102,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-939EY6X"
+        },
+        {
+            "filename": "virtual-event-e1652584766122.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/virtual-event-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 167139,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6KV8D8N"
+        },
+        {
+            "filename": "discussing-lecture-e1652584727583.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/discussing-lecture-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 251692,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GSHGVX6"
+        },
+        {
+            "filename": "young-smiling-female-lecturer-in-formalwear-and-ey-NMRLF44.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/young-smiling-female-lecturer-in-formalwear-and-ey-NMRLF44-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 181521,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NMRLF44"
+        },
+        {
+            "filename": "successful-businessman-CXS82DM.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/successful-businessman-CXS82DM-800x999.jpg",
+            "templates": [
+                {
+                    "source": "templates\/lecturer.json",
+                    "name": "Lecturer"
+                }
+            ],
+            "filesize": 156698,
+            "dimensions": [
+                820,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CXS82DM"
+        },
+        {
+            "filename": "university-students-working-together-e1652584519917.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/university-students-working-together-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 162879,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YTSGCD6"
+        },
+        {
+            "filename": "students-at-university-e1652584474486.jpg",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/students-at-university-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 283003,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJ435HM"
+        },
+        {
+            "filename": "logo-urayana.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/logo-urayana-800x271.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 26124,
+            "dimensions": [
+                1418,
+                481
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2RT44Y"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/kit.baliniz.com\/urayana\/wp-content\/uploads\/sites\/25\/2022\/05\/logo-2-800x271.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 27782,
+            "dimensions": [
+                1418,
+                481
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2RT44Y"
+        }
+    ]
+}

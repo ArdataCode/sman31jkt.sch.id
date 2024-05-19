@@ -1,0 +1,4 @@
+[04-Feb-2024 23:20:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/websit19/sman31jkt.sch.id/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/sman31jkt.sch.id/wp-includes/widgets/class-wp-widget-block.php on line 17
